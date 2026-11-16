@@ -36,3 +36,6 @@ To analyse EV charging sessions across five Kenyan cities to understand when and
 - notebooks: 01_foundations.ipynb and later notebooks
 - visuals: charts and screenshots
 - report: proposal and final report
+## Progress
+- **Week 1:** proposal, dataset source information, foundations notebook, row and column proof
+- **Week 2:** `notebooks/02_exploration.ipynb`, `docs/data_dictionary.md`, `docs/quality_audit.md`
